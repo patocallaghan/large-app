@@ -8,6 +8,7 @@ import {run} from '@ember/runloop';
 import {inject as service} from '@ember/service';
 import _ from 'lodash';
 import moment from 'moment';
+import Service from '@ember/service';
 
 export default Component.extend({
 
