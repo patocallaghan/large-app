@@ -23,7 +23,7 @@
     "@glimmer/tracking": "^1.0.0",
     "babel-eslint": "^10.0.3",
     "broccoli-asset-rev": "^3.0.0",
-    "ember-auto-import": "^1.5.3",
+    "ember-auto-import": "^2.2.0",
     "ember-cli": "~3.16.0",
     "ember-cli-app-version": "^3.2.0",
     "ember-cli-babel": "^7.17.2",
@@ -48,7 +48,9 @@
     "momentjs": "^2.0.0",
     "pretender": "^3.3.1",
     "qunit-dom": "^1.0.0",
-    "sinon": "^9.0.0"
+    "sinon": "^11.0.0",
+    "util": "^0.12.4",
+    "webpack": "^5.58.1"
   },
   "engines": {
     "node": "10.* || >= 12"
